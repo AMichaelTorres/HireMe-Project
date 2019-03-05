@@ -1,0 +1,53 @@
+body {
+    background-image: url("data:image/jpeg;base64,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");
+    text-align:center;
+    border:20px white groove;
+}
+img{
+    width:300px;
+    height:300px;
+    border:8px crimson groove;
+}
+h1{
+    font-family: 'Alfa Slab One', cursive;
+    border:10px darkred groove;
+    text-shadow: 5px 4px 5px
+    black;
+    color:goldenrod;
+    background-color:white;
+}
+h2{
+    border:10px darkred groove;
+    text-shadow: 3px 3px 2px
+    black;
+    color:goldenrod;
+    background-color:white;
+}
+.Draw{
+    width:70px;
+    height:70px;
+}
+.Poem{
+    width:70px;
+    height:70px;
+}
+.Film{
+    width:80px;
+    height:70px;
+}
+.picture{
+    width:70px;
+    height:70px;
+}
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
+li{
+    color:white;
+    font-size:40px;
+    border:10px crimson groove;
+    background-color:gray;
+}
